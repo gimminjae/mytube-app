@@ -7,6 +7,7 @@ import NotFound from "./pages/NotFound";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Videos from "./pages/Videos";
 import VideoDetail from "./pages/VideoDetail";
+import "./index.css";
 
 const router = createBrowserRouter([
   {
